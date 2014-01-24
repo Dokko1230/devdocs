@@ -30,7 +30,7 @@ end
 group :docs do
   gem 'typhoeus'
   gem 'nokogiri', '~> 1.6.0'
-  gem 'html-pipeline'
+  gem 'html-pipeline', '~> 1.5.0'
   gem 'progress_bar'
   gem 'unix_utils'
 end
